@@ -11,7 +11,7 @@ all_mutation = {"snp":{}, "del":{},"ins":{} }
 
 
 
-countAA= 1
+countAA= 0
 cols = {}
 seqdata = {}
 with open( "test.tsv" ) as f :
